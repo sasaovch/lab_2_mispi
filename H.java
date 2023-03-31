@@ -19,4 +19,8 @@ public class H extends D {
     public int hh() {
         return new java.util.Random().nextInt();
     }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
 }

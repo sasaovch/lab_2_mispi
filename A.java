@@ -19,4 +19,8 @@ public class A extends H {
     public void aa() {
         return;
     }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
 }

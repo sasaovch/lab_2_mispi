@@ -27,4 +27,8 @@ public class D implements B {
     public void bb() {
         System.out.println(getClass().getName());
     }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.HashSet<Integer>;
+    }
 }
