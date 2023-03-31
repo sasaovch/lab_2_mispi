@@ -11,4 +11,8 @@ public class H extends D {
     public java.util.Random mm() {
         return new java.util.Random();
     }
+
+    public void bb() {
+        System.out.println(42);
+    }
 }
