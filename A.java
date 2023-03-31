@@ -11,4 +11,8 @@ public class A extends H {
     public Object gg() {
         return new java.util.Random();
     }
+
+    public long dd() {
+        return 33;
+    }
 }
