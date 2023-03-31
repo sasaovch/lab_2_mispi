@@ -15,4 +15,8 @@ public class A extends H {
     public long dd() {
         return 33;
     }
+
+    public void aa() {
+        return;
+    }
 }

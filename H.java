@@ -15,4 +15,8 @@ public class H extends D {
     public void bb() {
         System.out.println(42);
     }
+
+    public int hh() {
+        return new java.util.Random().nextInt();
+    }
 }
