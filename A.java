@@ -15,4 +15,16 @@ public class A extends H {
     public long dd() {
         return 33;
     }
+
+    public void aa() {
+        return;
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
+
+    public java.util.List<String> jj() {
+        return new java.util.ArrayList<String>();
+    }
 }
