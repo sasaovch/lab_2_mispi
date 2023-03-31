@@ -31,4 +31,8 @@ public class D implements B {
     public java.util.Set<Integer> ll() {
         return new java.util.HashSet<Integer>;
     }
+
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
+    }
 }

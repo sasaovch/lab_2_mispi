@@ -23,4 +23,8 @@ public class H extends D {
     public java.lang.Class qq() {
         return getClass();
     }
+
+    public Object rr() {
+        return null;
+    }
 }
