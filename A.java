@@ -15,4 +15,11 @@ public class A extends H {
     public long dd() {
         return 33;
     }
+<<<<<<< Updated upstream
+=======
+
+    public void aa() {
+        return;
+    }
+>>>>>>> Stashed changes
 }
