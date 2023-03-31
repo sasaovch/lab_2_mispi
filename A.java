@@ -11,4 +11,16 @@ public class A extends H {
     public Object gg() {
         return new java.util.Random();
     }
+
+    public long dd() {
+        return 33;
+    }
+
+    public void aa() {
+        return;
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
 }

@@ -11,4 +11,16 @@ public class H extends D {
     public java.util.Random mm() {
         return new java.util.Random();
     }
+
+    public void bb() {
+        System.out.println(42);
+    }
+
+    public int hh() {
+        return new java.util.Random().nextInt();
+    }
+
+    public java.lang.Class qq() {
+        return getClass();
+    }
 }

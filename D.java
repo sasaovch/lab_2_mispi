@@ -19,4 +19,16 @@ public class D implements B {
     public int af() {
         return -1;
     }
+
+    public float ff() {
+        return 3.14;
+    }
+
+    public void bb() {
+        System.out.println(getClass().getName());
+    }
+
+    public java.util.Set<Integer> ll() {
+        return new java.util.HashSet<Integer>;
+    }
 }
