@@ -13,7 +13,7 @@ public class H extends D {
     }
 
     public void bb() {
-        System.out.println(42);
+        System.out.println(getClass().getName());
     }
 
     public int hh() {
