@@ -13,7 +13,7 @@ public class H extends D {
     }
 
     public void bb() {
-        System.out.println(42);
+        System.out.println(getClass().getName());
     }
 
     public int hh() {
@@ -22,5 +22,17 @@ public class H extends D {
 
     public java.lang.Class qq() {
         return getClass();
+    }
+
+    public float ff() {
+        return 3.14;
+    }
+
+    public Object rr() {
+        return null;
+    }
+
+    public long ac() {
+        return 111;
     }
 }
